@@ -2,6 +2,7 @@
  *  2114 (1024 x 4bits) RAM chip tester 
  *  Nino MegaDriver - nino@nino.com.br
  *  https://www.megadriver.com.br
+ *  License: GPL v3.0
  *  
  *  Default Pinout (Mega):
  *  AO <= [A6         Vcc] => 13
